@@ -5,5 +5,7 @@ http://156.224.77.34:9000/live.m3u8?token=GHiXpD9SC&c=1
 http://156.224.77.34:9000/live.m3u8?token=GHiXpD9SC&c=1
 #EXTINF:-1 tvg-name="HOY TV" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/HOY TV.png" group-title="📺HOY",HOY TV
 http://156.224.77.34:9000/live.m3u8?token=K-2146e3k&c=2
+#EXTINF:-1 tvg-name="HOY TV" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/HOY TV.png" group-title="📺HOY",HOY TV
+http://cdn.132.us.kg/live/hoy/stream.m3u8
 #EXTINF:-1 tvg-name="HOY 資訊台" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/HOY 資訊台.png" group-title="📺HOY",HOY 資訊台
 http://156.224.77.34:9000/live.m3u8?token=wPbUAbvrT&c=3
