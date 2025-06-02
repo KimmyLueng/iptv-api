@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2025-06-02 18:24:29,http://cdn.132.us.kg/live/hoy/stream.m3u8
+2025-06-03 06:21:31,http://cdn.132.us.kg/live/hoy/stream.m3u8
 
 📺HOY,#genre#
 HOY TV,http://cdn.132.us.kg/live/hoy/stream.m3u8
