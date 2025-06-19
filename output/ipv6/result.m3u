@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/KimmyLueng/iptv-api/refs/heads/master/output/epg/epg.gz"
-#EXTINF:-1 tvg-name="HOY 國際财經台" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/HOY 國際财經台.png" group-title="🕘️更新时间",2025-06-19 06:20:55
+#EXTINF:-1 tvg-name="HOY 國際财經台" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/HOY 國際财經台.png" group-title="🕘️更新时间",2025-06-19 18:23:47
 http://cdn.132.us.kg/live/hoy/stream.m3u8
 #EXTINF:-1 tvg-name="HOY TV" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/HOY TV.png" group-title="📺HOY",HOY TV
 http://cdn.132.us.kg/live/hoy/stream.m3u8
